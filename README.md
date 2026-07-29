@@ -223,15 +223,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-<div align="center">
-
-**Own your data.  
-Yield from it.**
-
-— The DataYield Collective  
-July 2026
-
-</div>
-```
-
----
