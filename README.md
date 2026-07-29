@@ -1,81 +1,10 @@
-```markdown
+
 # 💎 DataYield Protocol
 
-### Own Your Data. Yield From It.
-
-**The open-source privacy-first protocol that turns user purchase data into a liquid, user-owned asset on Solana.**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Solana](https://img.shields.io/badge/Built%20on-Solana-black?logo=solana)](https://solana.com)
-[![Status](https://img.shields.io/badge/Status-Early%20Development-orange)]()
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)]()
-
----
-
-## 📌 Abstract
-
-DataYield Protocol is an open-source infrastructure layer that gives individuals real ownership over their purchase data.
-
-Users can privately prove ownership of their real-world commerce data, selectively share or sell it based on market demand, and receive direct economic value — while remaining fully in control.
-
-The native token is **$OWNY**.
-
-> Privacy is not a feature.  
-> Privacy is the foundation.
-
----
-
-## 🔥 The Problem
-
-Digital commerce is extractive by design.
-
-- Platforms and retailers capture almost all value from user purchase data
-- Users have zero ownership, zero portability, and zero economic upside
-- Privacy is treated as a legal checkbox instead of a structural right
-- High-quality, consented purchase data remains scarce and expensive
-
-The most valuable signal in commerce is locked inside closed platforms.
-
----
-
-## ✨ The Solution
-
-DataYield introduces three core primitives:
-
-| Primitive | Description |
-|---------|-------------|
-| **Private Commercial Identity** | A user-controlled identity for commerce activity |
-| **Portable & Provable Purchase Data** | Standardized, cryptographically attested data |
-| **Programmable Yield** | Direct economic return to the data owner |
-
-This is **infrastructure**, not an application.
-
----
-
-## 🔓 Open Source Commitment
-
-Trust requires verifiability.
-
-All core components will be released under the **MIT License**:
-
-- Solana Programs (Anchor)
-- Protocol Specifications
-- TypeScript / JavaScript SDK
-- Merchant Integration Examples
-- Full Documentation
-
-```bash
-datayield-protocol/
-├── programs/           # Solana programs
-├── sdk/                # TypeScript SDK
-├── examples/           # Merchant integrations
-├── docs/               # Protocol specs
-└── whitepaper/
-```
-
-Anyone can audit it. Anyone can build on it.
-
----
+Own your data.
+Yield from it.
+Platforms took the value.
+Now take it back.
 
 ## 🛡️ Privacy Architecture
 
