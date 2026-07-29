@@ -178,7 +178,7 @@ Before the full public launch, a limited private contribution window is open.
 **Solana Address:**
 
 ```text
-[5PwmQw3kyLKa2WF5G3Nd4eymSN2AkkjRBctGZwg1bEM6]
+5PwmQw3kyLKa2WF5G3Nd4eymSN2AkkjRBctGZwg1bEM6
 ```
 
 Early contributors receive elevated Points multipliers (up to **3.5×** in the first 7 days) and priority in the Genesis Airdrop.
